@@ -1,0 +1,192 @@
+.login {
+    padding: 80px;
+}
+
+.wrapper {
+    padding: 10px 20px;
+    overflow: hidden;
+    background-color: black;
+}
+
+table {
+    background: #dd5;
+    background: #34495E;
+    color: #fff;
+    overflow: hidden;
+}
+
+th {
+    color: #DDDD57;
+}
+
+body {
+    background-color: #073648;
+    font-family: sans-serif;
+}
+
+.buttonl {
+    color: white;
+    padding: 7px 108px 7px 106px;
+    border-radius: 10px;
+    margin: 8px 5px 2px 0;
+    background-color: #E84D3D;
+}
+
+.head {
+    font-size: 21px;
+}
+
+.addlogin {
+    padding: 55px 600px;
+    line-height: 34px;
+}
+
+.span3 {
+    margin-left: 10px;
+    color: blue;
+    font-size: 18px;
+}
+
+.warning {
+    color: red;
+}
+
+.addwell {
+    padding: 116px 612px 300px 594px;
+    background-color: #6B5094;
+    line-height: 38px;
+}
+
+.buttonleft {
+    padding: 18px 0;
+}
+
+.pollbutton {
+    padding: 19px 0 0;
+}
+
+.pollvbutton {
+    padding: 7px 0 20px 25px;
+}
+
+.pollcan {
+    padding: 2px 0 0 25px;
+}
+
+.pollcancel {
+    padding-left: 21px;
+    float: left;
+}
+
+.buttonlogin {
+    padding-top: 20px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.link {
+    padding: 11px;
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+.login_add {
+    background-color: #34495E;
+}
+
+#myApp {
+    background-color: #009688;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+// *******************************************************
+// *******************GlobalNav************************************************
+
+styles.wrapper {
+    padding: 30px 20px;
+    overflow: 'hidden';
+    background: hsl(210, 85%, 50%);
+    color: #fff;
+}
+
+styles.link {
+    padding: 11px;
+    color: #fff;
+    font-weight: 200;
+}
+
+styles.activeLink {
+    padding: 11px;
+    color: #fff;
+    font-weight: 200;
+    background: #fff;
+    color: hsl(210, 85%, 50%);
+}
+// ****************************************************************
+
+.polladd {
+    width: 50%;
+    margin: 100px auto;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.optTitle {
+    font-size: 12px;
+    color: #07cbc9;
+    font-weight: bold;
+}
+
+.errortop {
+    color: red;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+.form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.pollform {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.vote {
+    float: right;
+    margin-right: 25px;
+    text-align: center;
+    //border-radius: 100%;
+    background-color: yellow;
+    width: 20%;
+}
+
+.input[type="text"]:focus {
+    border-bottom: 2px solid #07cbc9;
+}
+
+.hiddenInput {
+    width: 20%;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    font-size: 15px;
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.hiddenInput:focus {
+    border-bottom: 2px solid #07cbc9;
+    border-top: 2px solid #07cbc9;
+}
+// ###########################################################
